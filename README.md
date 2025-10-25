@@ -48,7 +48,7 @@ The app also includes an **Integrity Checker**, a **Log Manager**, and an **Offl
 
 ## 💻 Installation
 
-1. Download the latest version of **Line Tech Antivirus** from the official site:  
+1. Download the latest version of **Line Tech Virus Scanner** from the official site:  
    👉 [https://linetechsoftwares.co.za/projects](https://linetechsoftwares.co.za/projects)
 2. Extract the ZIP file to your desired location.  
 3. Run the application double clicking the icon.
