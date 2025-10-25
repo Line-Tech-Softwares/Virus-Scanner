@@ -1,6 +1,6 @@
 # 🛡️ Line Tech Antivirus
 
-**Version:** 1.2.0  
+**Version:** 1.00  
 **Developer:** Line Tech Softwares  
 **License:** © Line Tech Softwares. All rights reserved.  
 **Website:** [https://linetechsoftwares.co.za](https://linetechsoftwares.co.za)
